@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+}
+
+#navigation {
+    background-color: rgb(37, 37, 37);
+    font-size: larger;
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    color: black
+}
+
+#name {
+    font-size: larger;
+    color: lightblue;
+}
+
+#links {
+    color: lightblue;
+}
+
+#top {
+    font-size: larger;
+    text-align: center;
+}
+
+#quote {
+    text-align: center;
+    border: solid 5px rgb(37, 37, 37);
+    font-size: xx-large;
+    font-style: italic;
+    margin: 2%;
+}
