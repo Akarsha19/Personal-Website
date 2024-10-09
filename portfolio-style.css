@@ -1,0 +1,33 @@
+#project {
+    color: black;
+    font-size: x-large;
+    text-align: center;
+
+}
+
+#p-one {
+    color: black;
+    font-size: medium;
+    text-align: center;
+    border: solid 5px black;
+    background-color: lightblue;
+    margin: 2%;
+}
+
+#p-two {
+    color: black;
+    font-size: medium;
+    text-align: center;
+    border: solid 5px black;
+    background-color: lightblue;
+    margin: 2%;
+}
+
+#p-three {
+    color: black;
+    font-size: medium;
+    text-align: center;
+    border: solid 5px black;
+    background-color: lightblue;
+    margin: 2%;
+}
