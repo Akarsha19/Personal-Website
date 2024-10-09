@@ -1,0 +1,28 @@
+#contact {
+    font-size: large;
+    margin: 2%;
+    text-align: center;
+}
+
+#message {
+    font-size: large;
+    margin: 2%;
+    text-align: center;
+}
+
+#info {
+    font-size: medium;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+
+}
